@@ -28,7 +28,7 @@ jobs:
 #Second Workflow, run hello world from docker
   Running_application_from_docker:
     runs-on: ubuntu-latest
-    needs: running_andre-devsecops_app_workflow
+    needs: Running_application_directly_from_console
     steps:
       - name: Log in to Docker Hub
         uses: docker/login-action@v2.1.0

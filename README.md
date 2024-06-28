@@ -2,7 +2,7 @@
 This is a guide to help you navigate this repository.
 
 ## Github Pipeline status
-
+[![CI processs for andre-devsecops](https://github.com/iilness2/andre-devsecops/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/iilness2/andre-devsecops/actions/workflows/ci.yml)
 ## Folder Structure
 - `.github`: main GitHub Actions directory
 - `.github/workflow/ci.yml`: GitHub Actions CI/CD configuration
