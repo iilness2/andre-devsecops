@@ -8,9 +8,9 @@ jobs:
   Running_application_directly_from_console:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout the source code
         uses: actions/checkout@v3
-      - name: Compile and run Hello World! directly from the console
+      - name: Compile the dependencies and run Hello World! directly from the console
         shell: bash
         run: |
              pip install --no-cache-dir -r python_application/requirements.txt
