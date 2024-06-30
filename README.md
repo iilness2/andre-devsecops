@@ -25,8 +25,16 @@ Result: ![Run_Hello_World_Directly](assets/Run_Hello_World_Directly.png)
 - running hello world from docker
 Result: ![Run_Hello_World_from_Docker](assets/Run_Hello_World_from_Docker.png)
 
-## Additional Information
-Hub Docker URL: https://hub.docker.com/repository/docker/iilness/andre-devsecops-python/general
+## Docker Image Scanning Step in the Pipeline
+Result: ![Run_Hello_World_Directly](assets/Docker_Image_Scanning_Step.png)
+
+## Improvement
+- We can upload code scanning results to GitHub. This allows collaborators working on the repository to easily work together to improve the application's security quality
+- In addition to Docker image scanning, we can also add Software Composition Analysis (SCA), code quality scanning, Static Application Security Testing (SAST), and Dynamic Application Security Testing (DAST) to improve the overall quality of our applications. For more details, I have written an article [here](https://dev.to/iilness2/perspectives-on-the-evolution-of-devsecops-engineering-based-on-from-my-experiences-21me)
 
 ## Contact
 Linkedin Link: https://www.linkedin.com/in/iilness/
+Website Link: https://campsite.bio/iilness
+
+## Additional Information
+Docker Hub URL used for this project: https://hub.docker.com/repository/docker/iilness/andre-devsecops-python/general
