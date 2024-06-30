@@ -30,7 +30,7 @@ Result: ![Run_Hello_World_Directly](assets/Docker_Image_Scanning_Step.png)
 
 ## Improvement
 - We can upload code scanning results to GitHub. This allows collaborators working on the repository to easily work together to improve the application's security quality
-- In addition to Docker image scanning, we can also add Software Composition Analysis (SCA), code quality scanning, Static Application Security Testing (SAST), and Dynamic Application Security Testing (DAST) to improve the overall quality of our applications. For more details, I have written an article [here](https://dev.to/iilness2/perspectives-on-the-evolution-of-devsecops-engineering-based-on-from-my-experiences-21me)
+- In addition to Docker image scanning, we can also add Software Composition Analysis (SCA), code quality scanning, Static Application Security Testing (SAST), and Dynamic Application Security Testing (DAST) to improve the overall security and quality of our applications. For more details, you can also check the article I wrote at this [link](https://dev.to/iilness2/perspectives-on-the-evolution-of-devsecops-engineering-based-on-from-my-experiences-21me)
 
 ## Contact
 Linkedin Link: https://www.linkedin.com/in/iilness/
